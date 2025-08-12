@@ -3,7 +3,7 @@
 This is a simple static website hosted using **GitHub Pages**.
 
 ## 🌐 Live Demo
-[Click here to view the website]()
+[Click here to view the website](https://balamadhavan2001.github.io/Task6/)
 
 ## 📂 Project Structure
 
